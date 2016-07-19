@@ -1,11 +1,18 @@
 == README
-
+スケジュール管理アプリケーション
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
 
 * Ruby version
+  2.2.3
+
+*Rails version
+  4.2.2
+
+*operating sistem
+  centos6.7
 
 * System dependencies
 
