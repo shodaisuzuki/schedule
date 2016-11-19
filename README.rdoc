@@ -1,5 +1,10 @@
 == README
 スケジュール管理アプリケーション
+
+gem fullcalendaを使用しgoogleカレンダーを表示させる。
+ｊｓでクリックした日を赤く塗りつぶすアクション追加。再クリックで塗りつぶしなし
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
